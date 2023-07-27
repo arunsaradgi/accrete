@@ -1,17 +1,52 @@
 # accrete
 
+Landing Page
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/ce9c337d-ce7b-4da0-bbc2-48290eaee0dd)
 
-Please find below the details of your assignment:
 
-Create an event scheduling / calendar app in Next.js/React.js, keeping in view the following points:
 
- 
+PREVIOUS WEEK , TITLE , DAY_WEEK_MONTH GRID VIEW
 
-Current week view should be shown by default, user should be able to navigate to previous and next weeks
-User should be able to create, modify and delete events
-User should be able to signup/login (secondary requirement)
-How would you send reminders of the events to users? (secondary requirement)
-Material Design is recommended. Please see Google Calendar’s week view for design inspiration.
- 
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/fc940d33-1de3-4d66-8b8b-399014389776)
 
-Rest of the requirements are intentionally kept vague. You can make your own assumptions about them. One of the core parameters you’ll be evaluated on will be the way you make those assumptions. You can get inspiration from popular calendar apps like Google Calendar. 
+CREATE
+
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/29715b82-460e-4a33-b907-0b020929b7d7)
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/fb0a471e-77d5-4ac1-91ce-120ec9d7c527)
+
+
+
+EDIT
+
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/807a4ee3-1e39-4987-a6a3-8e84d317b54e)
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/7bac3221-1756-4227-8d78-262f74229826)
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/73e49e39-4055-468e-a136-234dd2da8b26)
+
+
+DELETE
+
+![image](https://github.com/arunsaradgi/accrete/assets/76575824/59bd4db4-1138-4497-b58e-85ae80c6bb5d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
